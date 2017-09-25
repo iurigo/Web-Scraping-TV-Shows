@@ -1,4 +1,5 @@
 # Web-Scraping-TV-Shows
+![alt text](https://github.com/iurigo/Web-Scraping-TV-Shows/blob/master/banner.png)
 
 ## Directions
 
